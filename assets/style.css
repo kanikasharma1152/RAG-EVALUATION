@@ -1,0 +1,36 @@
+/* Main container */
+.main {
+    padding-top: 1rem;
+}
+
+/* Metric cards */
+div[data-testid="stMetric"] {
+    background-color: #f8f9fc;
+    border: 1px solid #e6e8ef;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+    font-weight: 600;
+}
+
+/* Dataframe */
+[data-testid="stDataFrame"] {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* Success box */
+.stSuccess {
+    border-radius: 10px;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #f7f8fc;
+}

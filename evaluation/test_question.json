@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the objective of AI Smart Document Assistant?",
+    "ground_truth": "The objective is to build an AI assistant using FastAPI, Groq LLM, LangChain, LangGraph, ChromaDB and RAG that allows users to upload PDFs and ask questions."
+  },
+  {
+    "question": "Explain the RAG flow used in this project.",
+    "ground_truth": "The RAG flow includes PDF loading, chunking, embeddings generation, ChromaDB storage, retrieval and answer generation using Groq LLM."
+  },
+  {
+    "question": "Which features are available in the AI Smart Document Assistant?",
+    "ground_truth": "The features include Chat API, PDF upload, RAG, memory, calculator tool calling and AI agent."
+  }
+]

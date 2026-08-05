@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langgraph
+chromadb
+sentence-transformers
+ragas
+pandas
+numpy
+plotly
+python-dotenv
+pypdf
+tqdm
