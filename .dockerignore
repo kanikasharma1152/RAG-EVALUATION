@@ -1,0 +1,7 @@
+.venv
+.venv311
+.venv-ragas
+__pycache__
+.git
+.env
+*.pyc
